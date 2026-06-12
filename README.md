@@ -1,31 +1,35 @@
-# Hola 👋, soy Elmer Andrés Collanqui Casapia
+¡Hola! Soy Elmer Collanqui 👋
+Ingeniero de Sistemas e Informática | Investigador en Inteligencia Artificial | ML Data Engineer
+Me especializo en el desarrollo e investigación de tecnologías de Inteligencia Artificial, con un enfoque particular en Deep Learning, Procesamiento de Lenguaje Natural (NLP), modelos generativos (LLMs) y sistemas de recuperación de información de última generación (RAG/CAG).
 
-🎓 Estudiante de Ingeniería
-💻 Desarrollador y entusiasta de la tecnología
-📊 Interesado en Ciencia de Datos, Machine Learning y Desarrollo Web
-🌎 Perú
+🚀 Sobre Mí
+🎓 Educación: Bachiller en Ingeniería de Sistemas e Informática por la Universidad Nacional de Moquegua (UNAM), graduado en el Quinto Superior.
+💼 Experiencia Reciente: Me desempeñé como ML Data Engineer en AiMara Lab, diseñando arquitecturas de web scraping masivo y optimizando pipelines de procesamiento de datos para Machine Learning.
+🌎 Colaboración Abierta: Colaborador activo en el proyecto LATAM GPT (en alianza con AiMara Lab y CENIA Chile), contribuyendo en la curaduría de corpus masivo y pipelines de evaluación para el desarrollo de modelos de lenguaje adaptados a nuestra región.
+🎯 Intereses: Optimización industrial mediante IA, aplicaciones lingüísticas para lenguas originarias y desarrollo de sistemas RAG/CAG robustos para dominios complejos.
+🛠️ Tecnologías y Herramientas
+PythonJavaScriptPostgreSQL
+LangChainGoogle CloudReactGit
 
-## 🚀 Tecnologías
+📁 Proyectos Destacados
+🌾 PhawAI
+Asistente inteligente orientado a la prevención de riesgos agrícolas. Implementa arquitecturas RAG (Retrieval-Augmented Generation) consumiendo datos geoclimáticos en tiempo real para proveer recomendaciones y alertas tempranas a los agricultores.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+🌎 LATAM GPT (Colaboración)
+Participación clave en el pipeline de datos del modelo fundacional para Latinoamérica. Mis contribuciones se enfocaron en la limpieza, curaduría de corpus lingüísticos a gran escala y el diseño de estrategias de evaluación comparativa.
 
-## 📈 Estadísticas
+🗣️ Validación Lingüística del Aymara
+Desarrollo de herramientas impulsadas por IA destinadas a la preservación y validación lingüística de la lengua Aymara, conectando tecnología avanzada con el impacto social y cultural.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mermas-CC&show_icons=true)
+🤖 Chatbots Institucionales Normativos
+Agentes de IA conversacionales diseñados para navegar, comprender y responder de manera precisa consultas basadas en normativas legales y documentos institucionales complejos mediante pipelines semánticos.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mermas-CC&layout=compact)
+📊 Estadísticas de GitHub
+Estadísticas de GitHub de ElmerLenguajes más usados por Elmer
 
-## 📂 Proyectos Destacados
-
-- 📊 Mineria_de_Datos
-- ⚡ data_electricidad_mining
-- 🩺 Diabetes_comparison
-- 🌐 Portfolio
-
-## 📫 Contacto
-
-- ✉️ elmer.c.casapia@gmail.com
-- 🌐 https://mermitas.aimaralab.com/
+✉️ ¡Conectemos!
+Email: 
+elmer.c.casapia@gmail.com
+LinkedIn: linkedin.com/in/elmer-collanqui (reemplaza con tu enlace personalizado)
+Ubicación: Moquegua, Perú 🇵🇪
+README generado con 💖 y optimizado para destacar tu perfil en IA y Data Engineering.
