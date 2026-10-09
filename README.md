@@ -1,50 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:1f6feb&height=230&section=header&text=Elmer%20Andr%C3%A9s%20Collanqui&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20AI%20Researcher&descAlignY=60&descSize=20&animation=fadeIn" alt="Elmer Andrés Collanqui — Data Engineer & AI Researcher" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Elmer%20Andr%C3%A9s%20Collanqui&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%F0%9F%A4%96%20%C2%B7%20AI%20Researcher%20%F0%9F%A7%A0&descAlignY=58&descSize=22&animation=twinkling&stroke=ffffff&strokeWidth=0" alt="Elmer Andrés Collanqui — banner animado" width="100%"/>
 
-**ML Data Engineer & AI Researcher**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=F7B93E&center=true&vCenter=true&repeat=true&width=720&height=70&lines=%F0%9F%91%8B+Hola%2C+soy+Elmer!;%F0%9F%A7%AA+Investigo+NLP+y+IA+generativa;%F0%9F%8C%8E+Preservando+lenguas+originarias+con+IA;%F0%9F%9A%80+Data+Engineer+%C2%B7+UNAM+%C2%B7+Moquegua%2C+Per%C3%BA" alt="Typing animado" />
 
-*Ingeniería de Sistemas e Informática · UNAM · Moquegua, Perú*
+<br/>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--6979--9767-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-6979-9767)
-[![Website](https://img.shields.io/badge/Web-mermitas.aimaralab.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mermitas.aimaralab.com/)
+[![Website](https://img.shields.io/badge/Web-mermitas.aimaralab.com-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mermitas.aimaralab.com/)
 
 </div>
 
 ---
 
-## Sobre mí
+<div align="center">
 
-Investigo y construyo sistemas de **Procesamiento de Lenguaje Natural** e **Inteligencia Artificial generativa**, con foco en la **preservación de lenguas originarias** como el **Aymara**. Trabajo en la intersección entre ingeniería de datos, aprendizaje profundo y arquitecturas de recuperación aumentada (RAG/CAG), desde la curaduría de corpus hasta el despliegue en producción.
+### 🧬 Mi laboratorio de ideas
 
-## Líneas de investigación
-
-| Área | Enfoque |
-|:--|:--|
-| 🗣️ **NLP para lenguas originarias** | Corpus paralelos, traducción automática y modelado para lenguas de bajos recursos |
-| 🧠 **IA generativa** | Ajuste fino de LLMs y evaluación de modelos |
-| 🔎 **RAG / CAG** | Arquitecturas de recuperación aumentada sobre conocimiento estructurado y no estructurado |
-| 📊 **Ingeniería de datos** | Web scraping masivo, curaduría de datos y pipelines de ML reproducibles |
-
-## Stack técnico
+</div>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Inteligencia Artificial y ML**
-- PyTorch · Hugging Face · LangChain
-- OpenAI API · RAG / CAG
-- Google Cloud Vertex AI · Jupyter
+### 🧑‍🔬 Sobre mí
+Soy **ingeniero de sistemas e informática** (UNAM) y **Data Engineer & AI Researcher**. Construyo sistemas de **NLP** e **IA generativa** que convierten datos complejos en conocimiento útil, con una misión especial: **preservar lenguas originarias** como el **Aymara**. 🌱
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Ingeniería de software y datos**
-- Python · SQL · JavaScript (ES6+) · Bash
-- PostgreSQL · Node.js · FastAPI
-- Google Cloud Platform · Git · Docker
-- React · HTML5/CSS3
+### 🔭 Lo que exploro
+- 🗣️ **NLP para lenguas de bajos recursos**
+- 🤖 **LLMs** y ajuste fino de modelos
+- 🔎 **RAG / CAG**: IA que consulta conocimiento real
+- 🕸️ **Ingeniería de datos**: scraping, corpus y pipelines
 
 </td>
 </tr>
@@ -52,45 +41,9 @@ Investigo y construyo sistemas de **Procesamiento de Lenguaje Natural** e **Inte
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🛠️ Mi caja de herramientas
 
-</div>
-
-## Proyectos destacados
-
-<!-- Añade aquí 2–3 proyectos con: nombre, problema, stack, resultado medible y enlace. -->
-
-**🌐 Traducción automática Aymara ↔ Español**
-Sistema de traducción neuronal para una lengua de bajos recursos, desarrollado con corpus curado y evaluación con métricas estándar de traducción automática.
-`Python` · `PyTorch` · `Hugging Face`
-
-<!-- Verifica el nombre, el stack y las métricas de este proyecto antes de publicar. Añade el enlace al repo cuando esté público. -->
-
-
-## Estadísticas
-
-<div align="center">
-
-<img height="170" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Mermas-CC&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
-<img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mermas-CC&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-## Conecta conmigo
-
-<div align="center">
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-6979-9767)
-[![Web](https://img.shields.io/badge/Sitio%20web-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://mermitas.aimaralab.com/)
-
-*¿Colaboración en investigación, proyectos de NLP o datos? Escríbeme.*
+<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,fastapi,postgres,gcp,docker,git,js,react,bash,jupyter&theme=dark&perline=12" alt="Tecnologías" />
 
 </div>
 
@@ -98,6 +51,55 @@ Sistema de traducción neuronal para una lengua de bajos recursos, desarrollado 
 
 <div align="center">
 
-<sub>Elaborado con dedicación a la ciencia abierta y a las lenguas que merecen estar en la era digital.</sub>
+### 🚀 Proyecto estrella
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🌐 Traducción automática Aymara ↔ Español
+Traductor neuronal para una lengua de bajos recursos. Corpus curado, modelo en PyTorch y evaluación con métricas de traducción automática.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HF](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+<!-- ⚠️ Verifica nombre, stack y métricas antes de publicar. Añade el enlace al repo cuando sea público. -->
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📊 Mi universo en números
+
+<img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Mermas-CC&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+<img height="180" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mermas-CC&layout=compact&hide_border=true&theme=radical" />
+
+<br/>
+
+<img alt="Trofeos de GitHub" src="https://github-profile-trophy.vercel.app/?username=Mermas-CC&theme=radical&column=7&margin-w=12&margin-h=12" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 ¡Hablemos!
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-6979-9767)
+[![Web](https://img.shields.io/badge/Sitio_web-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mermitas.aimaralab.com/)
+
+*¿Colaboración en investigación, NLP o datos? Escríbeme y armamos algo increíble.* ✨
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=twinkling" alt="Footer" width="100%"/>
 
 </div>
