@@ -25,7 +25,7 @@
 <td width="50%" valign="top">
 
 ### 🧑‍🔬 Sobre mí
-Soy **Bachiller en Ingeniería de Sistemas e Informática** (Quinto Superior) y **investigador en IA**. Me especializo en **Deep Learning, NLP, modelos generativos** y **sistemas RAG/CAG**, con foco en evaluar sistemas en entornos reales. 🌱
+Soy **Ingeniero en Ingeniería de Sistemas e Informática** (Quinto Superior) y **investigador en IA**. Me especializo en **Deep Learning, NLP, modelos generativos** y **sistemas RAG/CAG**, con foco en evaluar sistemas en entornos reales. 🌱
 
 Fundé **AiMara Lab** para impulsar una IA responsable y accesible desde las regiones. 🇵🇪
 
